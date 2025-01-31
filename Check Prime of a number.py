@@ -1,4 +1,3 @@
-import math
 def isPrime(num):
     '''Checks whether the given number is prime or not'''
     if num <= 1:
