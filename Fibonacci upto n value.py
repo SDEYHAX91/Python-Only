@@ -1,5 +1,5 @@
 def fibonacci(n):
-    '''Generate Fibonacci series upto n terms'''
+    '''Generate Fibonacci series upto n value'''
     fib_seq = []
     a,b = 0,1
     for i in range(n):
